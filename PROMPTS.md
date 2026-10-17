@@ -179726,3 +179726,16 @@ Contributed by [@f](https://github.com/f)
 
 </details>
 
+<details>
+<summary><strong>Give me a prompt to use in creating an interactive data analysis dashboard</strong></summary>
+
+## Give me a prompt to use in creating an interactive data analysis dashboard
+
+Contributed by @anonymous
+
+```md
+Give me a prompt to use in creating an interactive data analysis dashboard
+```
+
+</details>
+
